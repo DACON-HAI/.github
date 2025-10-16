@@ -4,7 +4,7 @@
   <tbody>
     <tr>
       <td align="center" width="200">
-        <img src="hecto.jpg" alt="HAI! - Hecto AI Challenge" width="100%"/>
+        <img src="/hecto.jpg" alt="HAI! - Hecto AI Challenge" width="100%"/>
       </td>
       <td>
         <h3>HAI! - Hecto AI Challenge</h3>
